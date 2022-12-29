@@ -1,0 +1,5 @@
+function test() {
+git add .
+git commit -m sol
+git push
+}
